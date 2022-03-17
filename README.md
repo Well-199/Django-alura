@@ -8,6 +8,9 @@
 
 #### python manage.py startapp app
 
+#### python manage.py collectstatic
+
 #### python manage.py runserver
 
-# 04 Projeto e subindo servidor
+# 02 Templates Rotas e Views
+# 01 Criando a pasta template
