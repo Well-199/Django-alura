@@ -19,4 +19,4 @@
 #### python manage.py runserver
 
 # 05 Admin Parametros e receitas
-# 02 Exibindo dados do Banco
+# 03 Parametro na url
