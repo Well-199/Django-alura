@@ -18,5 +18,5 @@
 
 #### python manage.py runserver
 
-# 04 Modelo do Banco de Dados
-# 04 Modelo de Receita
+# 05 Admin Parametros e receitas
+# 02 Exibindo dados do Banco
