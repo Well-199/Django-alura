@@ -18,5 +18,5 @@
 
 #### python manage.py runserver
 
-# 01 Ajustando o Django Admin
-# 04 Busca Filtros e Paginação
+# 02 Quem Postou a Receita
+# 02  integrando modelos
