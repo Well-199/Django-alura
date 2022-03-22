@@ -18,5 +18,5 @@
 
 #### python manage.py runserver
 
-# 02 Quem Postou a Receita
-# 02  integrando modelos
+# 03 Filtros e Categorias
+# 01 Filtro em receitas publicadas
