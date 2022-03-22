@@ -18,5 +18,5 @@
 
 #### python manage.py runserver
 
-# 05 Admin Parametros e receitas
-# 03 Parametro na url
+# 01 Ajustando o Django Admin
+# 04 Busca Filtros e Paginação
