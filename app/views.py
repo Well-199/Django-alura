@@ -3,7 +3,7 @@ from .models import Receita
 
 def index(request):
 
-    receitas = Receita.objects.filter(publicado=True)
+    receitas = Receita.objects.order_by('-data_receita').filter(publicado=True)
 
     dados = {
         'receitas': receitas

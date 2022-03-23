@@ -18,5 +18,5 @@
 
 #### python manage.py runserver
 
-# 03 Filtros e Categorias
-# 01 Filtro em receitas publicadas
+# 04 Buscando Receitas
+# 01 Exibindo a Foto
